@@ -4,11 +4,40 @@ body {
 }
 
 a {
-  color: #00B7FF;
+  color: #252839;
+}
+
+a: hover {
+  color: #353849;
 }
 
 .capitalize {
   text-transform:capitalize;
+}
+
+
+ul,li, .navbar-inverse, .dropdown-menu, .navbar-collapse{
+  background: #252839;
+}
+
+.navbar:hover{
+  /*color: #353849;*/
+  background: #353849;
+}
+
+.dropdown-menu:hover{
+  /*color: #353849;*/
+  background: #353849;
+}
+
+ul: hover{
+  /*color: #353849;*/
+  background: #353849;
+} 
+
+li: hover{
+  /*color: #353849;*/
+  background: #353849;
 }
 
 pre {
