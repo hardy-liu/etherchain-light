@@ -7,7 +7,7 @@ a {
   color: #252839;
 }
 
-a: hover {
+a:hover {
   color: #353849;
 }
 
@@ -20,22 +20,18 @@ ul,li, .navbar-inverse, .dropdown-menu, .navbar-collapse{
   background: #252839;
 }
 
-.navbar:hover{
-  /*color: #353849;*/
-  background: #353849;
-}
 
 .dropdown-menu:hover{
   /*color: #353849;*/
   background: #353849;
 }
 
-ul: hover{
+ul:hover{
   /*color: #353849;*/
   background: #353849;
 } 
 
-li: hover{
+li:hover{
   /*color: #353849;*/
   background: #353849;
 }
